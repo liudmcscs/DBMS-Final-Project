@@ -1,6 +1,6 @@
-# Simple DBMS                                                                                                   
-
-This project is a simple DBMS implemented using C, as the education material of the Introduction to Database Systems in National Chiao Tung University
+# DBMS-Final-Project
+                                                                                                  
+This project is a DBMS final project implemented using C, as the education material of the Introduction to Database Systems in National Chiao Tung University
 
 ## Prerequisite
 
